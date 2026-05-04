@@ -7,13 +7,13 @@ Based on [rorry47/mailcow_module_WHMCS](https://github.com/rorry47/mailcow_modul
 <table style="width: 100%;">
   <tr>
     <td style="width: 33%; text-align: center;">
-      <img src="https://github.com/rorry47/whmcs-mailcow-multihosting/blob/main/scrn1.jpg" alt="Описание 1" width="100%">
+      <img src="https://github.com/rorry47/whmcs-mailcow-multihosting/blob/main/scrn1.jpg" alt="Overview tab" width="100%">
     </td>
     <td style="width: 33%; text-align: center;">
-      <img src="https://github.com/rorry47/whmcs-mailcow-multihosting/blob/main/scrn2.jpg" alt="Описание 2" width="100%">
+      <img src="https://github.com/rorry47/whmcs-mailcow-multihosting/blob/main/scrn2.jpg" alt="Statistics tab" width="100%">
     </td>
     <td style="width: 33%; text-align: center;">
-      <img src="https://github.com/rorry47/whmcs-mailcow-multihosting/blob/main/scrn2.jpg" alt="Описание 3" width="100%">
+      <img src="https://github.com/rorry47/whmcs-mailcow-multihosting/blob/main/scrn2.jpg" alt="Domains tab" width="100%">
     </td>
   </tr>
 </table>
