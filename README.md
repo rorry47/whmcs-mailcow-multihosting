@@ -13,7 +13,7 @@ Based on [rorry47/mailcow_module_WHMCS](https://github.com/rorry47/mailcow_modul
       <img src="https://github.com/rorry47/whmcs-mailcow-multihosting/blob/main/scrn2.jpg" alt="Statistics tab" width="100%">
     </td>
     <td style="width: 33%; text-align: center;">
-      <img src="https://github.com/rorry47/whmcs-mailcow-multihosting/blob/main/scrn2.jpg" alt="Domains tab" width="100%">
+      <img src="https://github.com/rorry47/whmcs-mailcow-multihosting/blob/main/scrn3.jpg" alt="Domains tab" width="100%">
     </td>
   </tr>
 </table>
